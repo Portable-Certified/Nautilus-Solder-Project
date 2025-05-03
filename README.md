@@ -2,6 +2,8 @@
 Solder Submission for Hack Club!
 I made this with the help of 2 friends. ^_^
 
+This PCB is a gadget that is supposed to either light up the eyes of the nautilus or light up and vibrate depending on which button is pressed and if there is light out on the PCB.
+
 Parts List:
 - 2 Resistors
 - 1 photoresistor
