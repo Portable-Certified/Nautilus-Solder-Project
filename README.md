@@ -1,13 +1,17 @@
 # Nautilus-Solder-Project
-Solder Submission for Hack Club.
-I made this with the help of 2 friends.
+Solder Submission for Hack Club!
+I made this with the help of 2 friends. ^_^
 
 Parts List:
 - 2 Resistors
+- 1 photoresistor
+- 1 mini motor disc
+- 1 potentiometer
 - 2 6mm push buttons
 - 2 5mm LEDs
 - 1 bCR2032 battery cell
 
-![3D view screenshot](https://github.com/user-attachments/assets/5b6f06d3-34e2-46cd-8e61-2970c343703d)
-![PCB screenshot](https://github.com/user-attachments/assets/b0aac618-a526-4d1d-b2fd-ce9057ef381f)
-![Schematic screenshot](https://github.com/user-attachments/assets/7dcfcebd-8c6e-4fbc-80aa-ee0bf59f81f6)
+![Nautilus v2 Schematic ](https://github.com/user-attachments/assets/7a9ab4d7-593c-426b-b451-b7af9a2f1ec4)
+![PCB natilus v2 ss](https://github.com/user-attachments/assets/090ceae1-b094-4554-8f14-5e87e47280dc)
+![3D Nauiltus v2 front view](https://github.com/user-attachments/assets/9f18bcd8-25a1-42ba-8975-850fb08f143a)
+![Nautilus v2 back view](https://github.com/user-attachments/assets/37da926c-dc6e-4d17-a62b-a4c6fb4f7a06)
